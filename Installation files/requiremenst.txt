@@ -1,0 +1,17 @@
+asgiref==3.2.5
+biopython==1.76
+Django==3.0.4
+djangorestframework==3.11.0
+dnspython==1.16.0
+mysql-connector-python==8.0.19
+numpy==1.18.2
+pandas==1.0.2
+pg8000==1.13.2
+protobuf==3.6.1
+python-dateutil==2.8.1
+pytz==2019.3
+scipy==1.4.1
+scramp==1.1.0
+six==1.14.0
+sqlparse==0.3.1
+wget==3.2

@@ -1,0 +1,6 @@
+The Following files need to be installed to have a mySQL and/or postgreSQL server on macOS:
+
+#These files are not included in the installation folder due to their size
+
+mysql-8.0.19-macos10.15-x86_64.dmg
+Postgres-2.3.3e-10-11-12.dmg
