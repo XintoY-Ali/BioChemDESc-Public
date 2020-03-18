@@ -1,6 +1,6 @@
 --BioChem_DESc-
 
-'Biochemistry Description, Evaluation and Script compilation'
+'Biochemistry Description, Evaluation and Script compiler'
 
 This is the Repo for BioChem_DESc app that we hope to develop into a PWA (progressive web-app).
 
@@ -20,7 +20,7 @@ Along with this should be any information on known protein interactions with the
 The a method of evaluating gthe 'Theoretical' list of small molecules, well thats the 'Evaluation'
 
 Finally, because of the huge amount of information that would need to be included with any such single query, an easy to query database will be required for the end-user. Thats why it is a PWA, all this in a web-browser.
-..hence 'Script compilation'. We will make a mini-downloadable-custom-database!
+..hence 'Script compiler'. We will make a mini-downloadable-custom-database!
 
 -Requirements
 
@@ -32,7 +32,7 @@ please give a follow and/or get in contact through GitHub: 'X-into-Y-Ali'
 
 You can also email me at alistair.moir.xintoy@protonmail.com
 
-While X-into-Y is to being trading as XINTOY LTD, we hope to put this online for free and everyone to use.
+While X-into-Y is to begin trading as XINTOY LTD, we hope to put this online for free and everyone to use.
 
 See terms of the GNU General Public License Version 3
 
