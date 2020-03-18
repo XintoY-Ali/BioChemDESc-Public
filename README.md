@@ -7,7 +7,7 @@ This is the Repo for BioChem_DESc app that we hope to develop into a PWA (progre
 Looking for collaborators in Biology, Chemistry, Programming and Statistics
 
 -Credits
-There will credit that needs to be given to the Open mySQL community, postgreSQL database and connectors, Python community for any module needed to complete the project (list of modules in requirements.txt), 'epam open source' for their chemistry database information and the RSC for anything required from the Protein Databank (PB); currently interested in small molecules
+There will credit that needs to be given to the Open mySQL community, postgreSQL database and connectors, Python community for any module needed to complete the project (list of modules in requirements.txt), 'epam open source' for their chemistry database information and the RCS for anything required from the Protein Databank (PB); currently interested in small molecules
 
 PyMol may also be involved but no promisses..(we pray for any excuse).
 
